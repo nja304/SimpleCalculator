@@ -1,3 +1,4 @@
-/**
- * Created by Ajen Kul on 4/11/2016.
- */
+function updatePhepTinh(n){
+    var pheptinh = document.getElementById("pheptinh");
+    pheptinh.innerHTML = n;
+}
